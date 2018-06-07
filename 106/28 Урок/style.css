@@ -1,0 +1,60 @@
+.base1 {
+    
+    height: 1000px
+}
+
+.paral {
+    height: 200px;
+    width: 1050px;
+    background: blue;
+    margin: 0 auto 0 auto;
+    
+}
+
+.column {
+    height: 600px;
+    width: 290px;
+    background: green;
+   
+}
+
+.flex {
+    display: flex;
+    padding-left: 143px;
+    box-sizing: border-box;
+    margin-top: 20px
+}
+
+.column2 {
+    width: 750px;
+    background: yellow;
+    margin-left: 10px
+}
+.headline{
+color: #151212;
+    font-size: 40px
+}
+.flex2{
+display: flex;
+    margin: 0
+        
+}
+.iu{
+    height: 15px;
+    width: 140px;
+    margin-bottom: 5px
+}
+.main2{
+margin-left: 770px;
+    margin-top: 30px
+}
+.a{
+background: royalblue;
+    height: 65px;
+    width: 1000px;
+    margin: 0 auto 0 auto;
+    display: flex
+}
+.a a{
+    color: red
+}
